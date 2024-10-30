@@ -10,7 +10,7 @@
          More details:
          When a fish is injured, the speed decreases, and when a star is token, the speed increases.
 
-    2) about us :
+2) about us :
     Team 5 from faculty of engineering Tanta university:
     1- Abdelhamed Ragheb Elhafny
     2- Samar Shaaban Ramadan
@@ -25,4 +25,4 @@
     11- Habiba Mohammed El-Sharqawi
     12- Mahmoud Kamal El-Sadani
 
-    3) Supervised by Dr/ Mohamed Ali and Eng/ Mohammed El-koumy.
+3) Supervised by Dr/ Mohamed Ali and Eng/ Mohammed El-koumy.
