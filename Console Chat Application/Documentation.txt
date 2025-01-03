@@ -1,0 +1,12 @@
+Version 1 :
+- server has only one client [ direct messaging ]
+
+Version 2 :
+- server has many clients 
+- each client is handled in a different thread 
+
+- when a new client enter the chat , the server inform all clients in the server
+
+- client send and recieve messages from other clients 
+- client can send a message for all clients in the server 
+
